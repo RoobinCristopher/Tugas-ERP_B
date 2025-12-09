@@ -1,0 +1,5 @@
+{
+  "name": "ERP Cash Flow Analysis",
+  "description": "An AI-powered cash management module that analyzes transaction data from a CSV file, visualizes cash flow, and provides financial management recommendations using Gemini.",
+  "requestFramePermissions": []
+}
